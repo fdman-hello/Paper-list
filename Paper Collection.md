@@ -10,9 +10,9 @@ I List some papers from Web of Science.
 **$~~~~$**·[教育改革](#教育改革)
 
 ## 基础理论
-**·**[[1]](https://www.cell.com/fulltext/S0092-8674(17)30538-X)CHANG L,TSAO D Y.The code for facial identity in the primate brain[J].Cell,2017,169(6):1013-1028.
-**·**[[2]](https://arxiv.org/abs/1511.09249)SCHMIDHUBER J. On learning to think: algorithmic information theory for novel combinations of reinforcement learning controllers and recurrent neural world models[EB/OL].(2015-11-30)[2024-03-27].
-**·**[[3]](https://arxiv.org/abs/2411.14499)Jingtao Ding, Yunke Zhang, Yu Shang, Yuheng Zhang, Zefang Zong, Jie Feng, Yuan Yuan, Hongyuan Su, Nian Li, Nicholas Sukiennik, Fengli Xu, and Yong Li.2025. Understanding World or Predicting Future? A Comprehensive Survey of World Models. ACM Comput. Surv. Just Accepted (June 2025).
+**·**[[1]](https://www.cell.com/fulltext/S0092-8674(17)30538-X)CHANG L,TSAO D Y.The code for facial identity in the primate brain[J].Cell,2017,169(6):1013-1028.  
+**·**[[2]](https://arxiv.org/abs/1511.09249)SCHMIDHUBER J. On learning to think: algorithmic information theory for novel combinations of reinforcement learning controllers and recurrent neural world models[EB/OL].(2015-11-30)[2024-03-27].  
+**·**[[3]](https://arxiv.org/abs/2411.14499)Jingtao Ding, Yunke Zhang, Yu Shang, Yuheng Zhang, Zefang Zong, Jie Feng, Yuan Yuan, Hongyuan Su, Nian Li, Nicholas Sukiennik, Fengli Xu, and Yong Li.2025. Understanding World or Predicting Future? A Comprehensive Survey of World Models. ACM Comput. Surv. Just Accepted (June 2025).  
 **·**[[4]](https://kns.cnki.net/kcms2/article/abstract?v=MmR6bzzH81GHLO4x9R2BJGWoix-zbKfrQ887J1HRhdEDbvIRrs3lsBFylzVORyYNVKixo1iFvf3CTq90hhrVpYkWY-9umJQ4QDhTK5vwE6es8hzbK2qIF02YcfFUcr14ddSjTzmSeyHCFT0WsgSgw7AOY1l1YDBk&uniplatform=NZKPT)王建红,严俊琦.世界模型赋能未来产业发展：演化图景与推进策略[J/OL].改革与战略,1-8[2025-08-23].
 **·**[[5]](https://kns.cnki.net/kcms2/article/abstract?v=MmR6bzzH81GZRVc-pqZ9nvFp_EQaTaQJtW2crGxWjZ1O7WmYwCtSnYBkHOTEd9Kfh3TZzHlVbfPQVail84ActbDBVFHWoKbBzbi_mOt_M_L3RSaLIGmgxmdwcB2dwUVtt8HtYu0Az6cq0rDE0vNWn5YeAn-p1XKPBa4yP9k8-Uk=&uniplatform=NZKPT)景君学,董一飞.辩证唯物主义认识论对世界模型的通用建构[J].洛阳师范学院学报,2024,43(09):14-19.
 **·**[[6]](https://www.sciencedirect.com/science/article/abs/pii/S004016257180001X)FORRESTER J W.Counterintuitive behavior of social systems[J].Theory and decision,1971,2(2):109-140.
